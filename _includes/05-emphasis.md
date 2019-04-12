@@ -17,4 +17,3 @@ My favourite type of project blends writing and graphic design to create content
 * [Make it Bigger - Paula Scher](https://www.pentagram.com/news/make-it-bigger)
 * [Resonate: Present Visual Stories that Transform Audiences -
 Nancy Duarte](https://www.wiley.com/en-us/Resonate%3A+Present+Visual+Stories+that+Transform+Audiences-p-9780470632017)
-
