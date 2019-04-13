@@ -11,8 +11,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    linkedin: naomiceaton
-    
+  
+    # linkedin: naomiceaton  
     # twitter: naomiceaton
     # github: nanaimoto
     # rss: rss
