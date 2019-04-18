@@ -14,6 +14,7 @@ My favourite type of project blends writing and graphic design to create content
 
 # Books I'm reading right now
 
-* [Make it Bigger - Paula Scher](https://www.pentagram.com/news/make-it-bigger)
-* [Resonate: Present Visual Stories that Transform Audiences -
-Nancy Duarte](https://www.wiley.com/en-us/Resonate%3A+Present+Visual+Stories+that+Transform+Audiences-p-9780470632017)
+* [Make it Bigger](https://www.pentagram.com/news/make-it-bigger) - Paula Scher
+* [Resonate: Present Visual Stories that Transform Audiences](https://www.wiley.com/en-us/Resonate%3A+Present+Visual+Stories+that+Transform+Audiences-p-9780470632017) -
+Nancy Duarte
+* [How Not to Be Eaten: The Insects Fight Back](https://www.ucpress.edu/book/9780520269125/how-not-to-be-eaten) - Gilbert Waldbauer
