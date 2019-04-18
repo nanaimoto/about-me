@@ -11,15 +11,16 @@ minima:
 
   # generate social links in footer
   social_links:
-  
+ 
     linkedin: naomiceaton  
     twitter: naomiceaton
+    instagram: naomiceaton
+    
     # github: nanaimoto
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
